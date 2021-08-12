@@ -1,0 +1,4 @@
+                             TAKSHAK CO.
+Sno Particulars         Quantity  Price Sub total 
+1   tak                 5         45    225       
+total                             225       
